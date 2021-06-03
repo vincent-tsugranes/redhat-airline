@@ -24,7 +24,7 @@ Search for Flights, Airports, Crewmembers:
 ## Getting Started:
 clone the repo and submodules
 ```
-	git clone --recurse-submodules https://github.com/vincent-tsugranes/redhat-airline
+ git clone --recurse-submodules https://github.com/vincent-tsugranes/redhat-airline
 ```
 
 ## Running Locally:
