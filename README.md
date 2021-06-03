@@ -28,7 +28,9 @@ clone the repo and submodules
 ```
 
 ## Running Locally:
+From each service
 ```
+ npm install
  npm run start
 ```
 
