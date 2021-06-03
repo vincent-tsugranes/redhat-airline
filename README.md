@@ -1,4 +1,4 @@
-# redhat-airlineRed Hat Airline is a fictional airline build to demonstrate cool technology for airlines and the transportation sector.
+# Red Hat Airline is a fictional airline build to demonstrate cool technology for airlines and the transportation sector.
 
 It is made up of microservices written in Typescript, containerized and deployed on Openshift. It also runs on OpenShift Serverless using knative, with [these instructions](#serverless)
 
@@ -7,6 +7,7 @@ The front-end used Typescript and Vue.js, including components to visualize info
 It uses a suprisingly small amount of code to accomplish a lot, deployed on a platform that provides reliability and scalability
 
 It was developed using VS Code, and is entirely open source
+
 
 Schedule View:
 <img src="https://github.com/vincent-tsugranes/redhat-airline-ui/raw/main/public/redhat-airline-schedule.png"></img>
@@ -19,6 +20,12 @@ Flight Drill-Down:
 
 Search for Flights, Airports, Crewmembers:
 <img src="https://github.com/vincent-tsugranes/redhat-airline-ui/raw/main/public/redhat-airline-search.png"> </img>
+
+## Getting Started:
+clone the repo and submodules
+```
+	git clone --recurse-submodules https://github.com/vincent-tsugranes/redhat-airline
+```
 
 ## Running Locally:
 ```
