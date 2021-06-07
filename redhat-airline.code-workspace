@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "redhat-airline-ui"
+		},
+		{
+			"path": "redhat-airline-flight-api"
+		},
+		{
+			"path": "redhat-airline-crewmember-api"
+		},
+		{
+			"path": "redhat-airline-airport-api"
+		},
+		{
+			"path": "redhat-airline-cargo-api"
+		}
+	]
+}
