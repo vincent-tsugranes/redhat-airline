@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "redhat-airline-ui"
+		},
+		{
+			"path": "redhat-airline-flight-api"
+		},
+		{
+			"path": "redhat-airline-crewmember-api"
+		},
+		{
+			"path": "redhat-airline-cargo-api"
+		},
+		{
+			"path": "redhat-airline-airport-api"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/*.js": {"when": "$(basename).ts"},
+			"**/*.d.ts": {"when": "$(basename).ts"},
+			"**/*.js.map": true
+		}
+	}
+}
